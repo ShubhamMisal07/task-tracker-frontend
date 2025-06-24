@@ -39,3 +39,33 @@ A simple and elegant task management web application built with **React**, **Spr
 ```bash
 git clone https://github.com/ShubhamMisal07/task-tracker-frontend.git
 git clone https://github.com/ShubhamMisal07/task-tracker-backend.git
+
+
+Frontend Setup
+cd task-tracker-frontend
+npm install
+npm start
+
+Backend Setup
+Ensure Java and Maven are installed
+
+Add your MongoDB URI in application.properties
+spring.data.mongodb.uri=mongodb+srv://<username>:<password>@cluster.mongodb.net/tasktracker
+
+cd task-tracker-backend
+mvn spring-boot:run
+
+📈 Analytics
+This app uses Vercel Analytics to track visits and performance.
+
+🙋‍♂️ Author
+Shubham Misal
+🔗 
+📧 misalshubham007@gmail.com
+📁 Portfolio coming soon...
+
+⭐️ Show Your Support
+If you like this project:
+Star the repo ⭐
+Share it
+Or just say hi!
