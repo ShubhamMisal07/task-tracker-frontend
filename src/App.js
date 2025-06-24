@@ -1,6 +1,6 @@
 // src/App.js
-import { Analytics } from "@vercel/analytics/react"
 import React, { useEffect, useState } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import {
   getAllTasks,
   createTask,
