@@ -41,12 +41,12 @@ git clone https://github.com/ShubhamMisal07/task-tracker-frontend.git
 git clone https://github.com/ShubhamMisal07/task-tracker-backend.git
 
 
-Frontend Setup
+**Frontend Setup**
 cd task-tracker-frontend
 npm install
 npm start
 
-Backend Setup
+**Backend Setup**
 Ensure Java and Maven are installed
 
 Add your MongoDB URI in application.properties
