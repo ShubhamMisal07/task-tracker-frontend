@@ -1,4 +1,5 @@
 // src/App.js
+import { Analytics } from "@vercel/analytics/react"
 import React, { useEffect, useState } from 'react';
 import {
   getAllTasks,
@@ -50,6 +51,7 @@ function App() {
   };
 
   return (
+    
     <div className="App">
       <h1>📝 Task Tracker</h1>
       <form onSubmit={handleSubmit}>
@@ -86,6 +88,7 @@ function App() {
           </li>
         ))}
       </ul>
+       <Analytics />
     </div>
   );
 }
