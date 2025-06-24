@@ -60,7 +60,7 @@ This app uses Vercel Analytics to track visits and performance.
 
 🙋‍♂️ Author
 Shubham Misal
-🔗 
+🔗 www.linkedin.com/in/shubhammisal07 
 📧 misalshubham007@gmail.com
 📁 Portfolio coming soon...
 
